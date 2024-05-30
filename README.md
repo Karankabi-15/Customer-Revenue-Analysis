@@ -65,8 +65,7 @@ Import customer data into Power BI. Ensure that data includes information about 
 
 Import product data into Power BI. This data should include detailed information about each product in inventory, such as product ID, name, description, category, price, stock level, etc. Create a data model that connects product data with any related data tables, such as sales transactions or customer data. Ensure that relationships between tables are properly defined. In the "Product Detail" report in Power BI that provides valuable insights into products, helping businesses make informed decisions about pricing, inventory management, marketing strategies, and product development.
 
-![Uploading k10.jpg…]()
-
+![k10](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/0bcf8106-f659-4f85-bdcb-d6bed19d659a)
 
 
 #Geographical Report:
@@ -79,7 +78,7 @@ Bubble Maps: Represent data with bubbles of varying sizes on a map, where the si
 ![k11a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/bd16a243-e35e-46ca-8f7c-7b75eecf491c)
 
  #Summary Report View:
- ![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
 
+             summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users.
 
-             summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users. 
+              ![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
