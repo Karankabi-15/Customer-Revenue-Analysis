@@ -21,6 +21,7 @@ Customer Segmentation: Visualize customer segments based on attributes such as d
 Purchase History: Show a timeline or table of all purchases made by the selected customer, including details such as transaction dates, products purchased, and transaction amounts.
 Revenue Trend: Display the revenue trend over time for the selected customer, allowing   to identify patterns or changes in purchasing behavior.
 Customer Demographics: Visualize customer demographics such as age, gender, location, etc., to gain insights into customer base.
+![k3](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/630fb698-b542-4e4c-8c16-a120478cd946)
 
 #Customer with Children Report:
 
