@@ -70,4 +70,4 @@ Bubble Maps: Represent data with bubbles of varying sizes on a map, where the si
 
 summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users.
 
-              ![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
+![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
