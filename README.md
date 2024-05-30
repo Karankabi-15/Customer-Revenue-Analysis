@@ -1,5 +1,6 @@
 # Customer-Revenue-Analysis
 Dynamic customer revenue analysis dashboard in Power BI, organizations can empower decision-makers to make data-driven decisions, optimize marketing strategies, and enhance customer relationship management efforts. This tool provides actionable insights into revenue generation, customer behavior, and market trends, driving business growth and competitiveness.
+![k1](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/7babef2d-61a4-43b7-b61b-90594c860d6a)
 
 #Customer Dashboard:
 
