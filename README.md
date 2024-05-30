@@ -50,15 +50,6 @@ Determine the key metrics   want to analyze regarding product and customer reven
 ![k9a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/826bcc32-45d5-417c-97e1-b5496a8da837)
 
 
-#Male & Female Customer Report:
-
-Import customer data into Power BI. Ensure that data includes information about the gender of each customer. Determine the key metrics   want to analyze for male and female customers. This could include total revenue, average order value, purchase frequency, customer lifetime value, etc. Combine all visualizations into a cohesive dashboard layout. 
-
- Test the report thoroughly to ensure that it provides accurate insights and meets the requirements. Gather feedback from users and make any necessary optimizations to improve the report's effectiveness. data model that connects customer data with any related data tables. Make sure to define relationships between tables accurately.
-
- ![k8a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/5a14057a-c81d-483e-93ba-5f3ac638451f)
-
-
 #Product Detail Report:
 
 Import product data into Power BI. This data should include detailed information about each product in inventory, such as product ID, name, description, category, price, stock level, etc. Create a data model that connects product data with any related data tables, such as sales transactions or customer data. Ensure that relationships between tables are properly defined. In the "Product Detail" report in Power BI that provides valuable insights into products, helping businesses make informed decisions about pricing, inventory management, marketing strategies, and product development.
