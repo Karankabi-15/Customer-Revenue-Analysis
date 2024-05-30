@@ -59,7 +59,7 @@ Import product data into Power BI. This data should include detailed information
 
 #Geographical Report:
 
-             Import data into Power BI. Ensure that dataset includes geographical information such as country, state/province, city, postal/ZIP code, latitude, and longitude. Design visualizations that display the key metrics geographically. Some common visualizations include:
+Import data into Power BI. Ensure that dataset includes geographical information such as country, state/province, city, postal/ZIP code, latitude, and longitude. Design visualizations that display the key metrics geographically. Some common visualizations include:
 Map Visuals: Use maps to visualize data points based on their geographical coordinates. Power BI offers built-in map visualizations that allow   to plot data points on a map.
 Filled Maps: Display data using filled maps, where regions are shaded or colored based on a particular metric, such as sales revenue or customer count.
 Bubble Maps: Represent data with bubbles of varying sizes on a map, where the size of each bubble corresponds to a specific metric
@@ -68,6 +68,6 @@ Bubble Maps: Represent data with bubbles of varying sizes on a map, where the si
 
  #Summary Report View:
 
-             summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users.
+summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users.
 
               ![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
