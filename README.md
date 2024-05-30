@@ -32,14 +32,15 @@ Customer Demographics: Visualize customer demographics such as age, gender, loca
 
 Creating a "Customer with Children" report in Power BI involves analyzing customer data to identify those who have children and understanding their behavior or preferences. Here's how   can approach it. Import customer data into Power BI. Ensure that data includes information about whether each customer has children or not. This data could be a binary field indicating whether a customer has children or not, or it could include the number or age range of children.
 
-![k6a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/c84ed8c5-c12e-4c53-97f4-2d56d0130220)
+![k8a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/43d00cce-8108-4073-9f1b-f0f8ec566cfb)
 
 
 #Customer without Children Report:
 
 Creating a "Customer without Children" report in Power BI involves analyzing customer data to identify those who do not have children and understanding their behavior or preferences. Here's how   can approach it. Create a data model that connects customer data with any related data tables, such as transaction data or demographic data. Define relationships between tables accurately.
 
-![k8a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/43d00cce-8108-4073-9f1b-f0f8ec566cfb)
+
+![k6a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/c84ed8c5-c12e-4c53-97f4-2d56d0130220)
 
 
 #Product and Customer Revenue:
