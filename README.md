@@ -1,6 +1,6 @@
 # Customer-Revenue-Analysis
 Dynamic customer revenue analysis dashboard in Power BI, organizations can empower decision-makers to make data-driven decisions, optimize marketing strategies, and enhance customer relationship management efforts. This tool provides actionable insights into revenue generation, customer behavior, and market trends, driving business growth and competitiveness.
-![k1](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/7babef2d-61a4-43b7-b61b-90594c860d6a)
+
 
 #Customer Dashboard:
 
@@ -10,6 +10,9 @@ Filters: defined by the filters control what records are displayed in the view
 Columns: columns define what data is shown in the view. Columns can be sorted, as well
 Chart: a visual representation of the records in the corresponding View. Examples include Pie Charts, Bar and Column Charts, and Pipeline Charts. Depending on Chart Type, they are comprised of Legend Entries (Series) and Horizontal Category Labels.
 Dashboard: A combination of 6 (or less) components. A component can be a View, Chart, Web Resource, or Iframe.
+
+![k2](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/bc5bd520-9d96-49a1-8775-4ec95f775967)
+
 
 #Customer Details Report:
 
@@ -21,15 +24,23 @@ Customer Segmentation: Visualize customer segments based on attributes such as d
 Purchase History: Show a timeline or table of all purchases made by the selected customer, including details such as transaction dates, products purchased, and transaction amounts.
 Revenue Trend: Display the revenue trend over time for the selected customer, allowing   to identify patterns or changes in purchasing behavior.
 Customer Demographics: Visualize customer demographics such as age, gender, location, etc., to gain insights into customer base.
-![k3](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/630fb698-b542-4e4c-8c16-a120478cd946)
+
+![k4](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/5d3b68bc-fc45-42c7-b3cb-c00961308a35)
+
 
 #Customer with Children Report:
 
 Creating a "Customer with Children" report in Power BI involves analyzing customer data to identify those who have children and understanding their behavior or preferences. Here's how   can approach it. Import customer data into Power BI. Ensure that data includes information about whether each customer has children or not. This data could be a binary field indicating whether a customer has children or not, or it could include the number or age range of children.
 
+![k6a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/c84ed8c5-c12e-4c53-97f4-2d56d0130220)
+
+
 #Customer without Children Report:
 
 Creating a "Customer without Children" report in Power BI involves analyzing customer data to identify those who do not have children and understanding their behavior or preferences. Here's how   can approach it. Create a data model that connects customer data with any related data tables, such as transaction data or demographic data. Define relationships between tables accurately.
+
+![k8a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/43d00cce-8108-4073-9f1b-f0f8ec566cfb)
+
 
 #Product and Customer Revenue:
 
@@ -37,15 +48,25 @@ Analysis a report that focuses on product and customer revenue in Power BI, need
 
 Determine the key metrics   want to analyze regarding product and customer revenue. This could include total revenue, revenue by product, revenue by customer, average revenue per product, average revenue per customer, etc. And slicers, filters, or other interactive elements to allow users to explore the data dynamically. Users should be able to filter the data by date range, product category, customer segment, etc.
 
+![k9a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/826bcc32-45d5-417c-97e1-b5496a8da837)
+
+
 #Male & Female Customer Report:
 
 Import customer data into Power BI. Ensure that data includes information about the gender of each customer. Determine the key metrics   want to analyze for male and female customers. This could include total revenue, average order value, purchase frequency, customer lifetime value, etc. Combine all visualizations into a cohesive dashboard layout. 
 
  Test the report thoroughly to ensure that it provides accurate insights and meets the requirements. Gather feedback from users and make any necessary optimizations to improve the report's effectiveness. data model that connects customer data with any related data tables. Make sure to define relationships between tables accurately.
 
+ ![k8a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/5a14057a-c81d-483e-93ba-5f3ac638451f)
+
+
 #Product Detail Report:
 
 Import product data into Power BI. This data should include detailed information about each product in inventory, such as product ID, name, description, category, price, stock level, etc. Create a data model that connects product data with any related data tables, such as sales transactions or customer data. Ensure that relationships between tables are properly defined. In the "Product Detail" report in Power BI that provides valuable insights into products, helping businesses make informed decisions about pricing, inventory management, marketing strategies, and product development.
+
+![Uploading k10.jpg…]()
+
+
 
 #Geographical Report:
 
@@ -54,6 +75,10 @@ Map Visuals: Use maps to visualize data points based on their geographical coord
 Filled Maps: Display data using filled maps, where regions are shaded or colored based on a particular metric, such as sales revenue or customer count.
 Bubble Maps: Represent data with bubbles of varying sizes on a map, where the size of each bubble corresponds to a specific metric
 
+![k11a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/bd16a243-e35e-46ca-8f7c-7b75eecf491c)
+
  #Summary Report View:
+ ![k13a](https://github.com/Karankabi-15/Customer-Revenue-Analysis/assets/124484238/47e16c19-a97d-4bb4-8ac8-a90141cbe693)
+
 
              summary report view in Power BI allows stakeholders to quickly grasp key insights and metrics without delving into detailed data. Here's a step-by-step guide to creating a summary report view. Test the summary report view thoroughly to ensure that it accurately reflects the key metrics and provides valuable insights. Gather feedback from stakeholders and make any necessary adjustments to improve clarity and usability. Once satisfied with the contact page, save Power BI report and deploy it to users. 
